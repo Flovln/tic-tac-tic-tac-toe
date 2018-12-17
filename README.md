@@ -2,7 +2,17 @@
 
 An advanced tic-tac-toe game for your terminal.
 
-## Tic-tac-toe game rules
+## How to use the program
+
+```bash
+$> make
+$> ./tic-tac-toe
+Start a new game? Y or N
+n
+Goodbye!
+```
+
+## Game rules
 
 Two players on a 3x3 cells board
 
@@ -113,3 +123,8 @@ X - - | | O | | - - -
 O's turn to play.
 ...
 ```
+
+## Conclusion
+
+This project was a nice algorithmic introduction to more advanced topics using *Ocaml* functionnal programming language.  
+The use of modals, interfaces, pattern matching, user defined types and recursion allows to create a really elegant and concise code.  
